@@ -1,16 +1,11 @@
-# bike_shopping_app
+# Bike Shopping App
 
-A new Flutter project.
+This mobile application does not have any back-end support.
+It is a completely UI-based mobile application.
 
-## Getting Started
+I built this application solely for the purpose of practicing my UI skills with Flutter.
 
-This project is a starting point for a Flutter application.
+I found the UI design of this application on [Figma Community templates](https://www.figma.com/community). 
+Special thanks to [Sourasith](https://www.figma.com/@sourasithp) for creating such a wonderful UI and making it completely free.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link to the Figma Design: [Here](https://www.figma.com/design/IahcTJ3DVVdsvXsorvfqQj/Online-Bike-Shopping-App-(Community)?node-id=1-2276&node-type=frame&t=asJTHIRIrYK4nc6C-0)
